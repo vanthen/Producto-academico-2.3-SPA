@@ -1,0 +1,47 @@
+[
+    {
+        "name": "MATIAS GARCIA",
+        "bio": "Este usuario no tiene biografia publica.",
+        "avatarUrl": "https:\/\/avatars.githubusercontent.com\/u\/210294254?v=4",
+        "color": "#3b82f6",
+        "id": "user_6ad9695239162",
+        "createdAt": "2026-10-21 19:39:30",
+        "usuario_id": 1
+    },
+    {
+        "name": "Prueba",
+        "bio": "Hola soy una prueba",
+        "avatarUrl": "src\/assets\/Avatares3.jpg",
+        "color": "#55585e",
+        "id": "user_6ad96a15adbcc",
+        "createdAt": "2026-10-21 19:42:45",
+        "usuario_id": 1
+    },
+    {
+        "name": "Leon",
+        "bio": "Con un pollito\n",
+        "avatarUrl": "src\/assets\/Avatares8.jpg",
+        "color": "#ca4c16",
+        "id": "user_6ad96a23e1a01",
+        "createdAt": "2026-10-21 19:42:59",
+        "usuario_id": 1
+    },
+    {
+        "name": "spider nutria",
+        "bio": "nose\n",
+        "avatarUrl": "src\/assets\/Avatares11.jpg",
+        "color": "#f20707",
+        "id": "user_6ad96a33f0c5d",
+        "createdAt": "2026-10-21 19:43:15",
+        "usuario_id": 1
+    },
+    {
+        "name": "Cucurella gato",
+        "bio": "primero - buena foto\nsegundo - argentina",
+        "avatarUrl": "src\/assets\/Avatares0.jpg",
+        "color": "#f20707",
+        "id": "user_6ad96a508f8d6",
+        "createdAt": "2026-10-21 19:43:44",
+        "usuario_id": 1
+    }
+]
